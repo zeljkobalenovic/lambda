@@ -1,0 +1,14 @@
+Lambda - Java8 
+
+Cilj ove vezbe je savladati lambde kao novu mogucnost u javi8
+Takodje cilj je i vezbanje koriscenja vs code za obicne java projekte
+
+Ovo je obican java projekat koji pravimo sa : view - command palette - java:create java project ( koristi sve iz eclipsa )
+napravljen projekat je kao i koriscenjem eclipsa 
+zatim git (inicijalizujem repo , add remote sagithuba ) i moze se vezbati 
+
+prvi commit i krecemo
+
+LAMBDE 
+======
+
