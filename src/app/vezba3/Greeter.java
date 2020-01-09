@@ -32,10 +32,10 @@ public class Greeter {
         // ima samo jednu metodu , i ona ima otisak koji nam treba (nema argumenata , a vraca void )
         // tako da NE MORAMO praviti interfejs , ako ga imamo tj. korak 1 je opcioni
 
-        Greeting myLambdaFunction = () -> System.out.println("lambda funkcija akcija");
+     //   Greeting myLambdaFunction = () -> System.out.println("lambda funkcija akcija");
 
         // kako se gornje razlikuje od ovog dole - vezba 4        
-        Greeting greetingImpl = new GreetingImpl1();
+     //   Greeting greetingImpl = new GreetingImpl1();
         
         
     }   
