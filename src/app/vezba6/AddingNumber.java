@@ -42,12 +42,12 @@ public class AddingNumber {
             return suma + 300;
         };
 
-        System.out.println(lambdaImpl.addnum(nizbrojeva)); 
+        System.out.println(lambdaImpl.addnum(new int[] {2,5,6})); 
 
     }
 
     
-    public interface AddingNumberInterface {
+    public interface AddingNumberInterface { 
         int addnum(int[] niz);
     }
 
