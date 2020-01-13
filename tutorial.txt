@@ -12,3 +12,21 @@ prvi commit i krecemo
 LAMBDE 
 ======
 
+Zasto LAMBDE
+
+1   omogucavaju funkcionalno programiranje
+2   kraci i citljiviji kod
+3   olaksana upotreba api-ja i libraries
+4   podrska za paralelno procesiranje
+
+Sve gornje je objasnjeno u vezbama i to :
+
+razumevanje i objasnjenje   vezbe1 - vezbe9
+koriscenje lambdi           vezbe1 - vezbe9
+funkcionalni interfejsi     vezba7
+exception u lambdama        vezba10
+closures i lambde           vezba11    
+this i lambde               vezba12   
+metod reference             vezba13
+lambde u kolekcijama        vezba14(foreach) i vezba15(streams)
+
